@@ -1,4 +1,4 @@
-## DevOps Project: Hosting a Dynamic Web App on AWS with Kubernetes and EKS
+## DevOps Project: Deploying a Microservice Architecture on AWS with Kubernetes and EKS
 
 ### Overview
 This project demonstrates how to host a dynamic web application on AWS using Kubernetes and Elastic Kubernetes Service (EKS). The infrastructure is designed to be robust, secure, and scalable, utilizing a variety of AWS services and resources.
