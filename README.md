@@ -1,7 +1,7 @@
 ## DevOps Project: Deploying a Microservice Architecture on AWS with Kubernetes and EKS
 
 ### Overview
-This project demonstrates how to host a dynamic web application on AWS using Kubernetes and Elastic Kubernetes Service (EKS). The infrastructure is designed to be robust, secure, and scalable, utilizing a variety of AWS services and resources.
+This project demonstrates how to deploy a microservice architecture on AWS using Kubernetes and Elastic Kubernetes Service (EKS). The infrastructure is designed to be robust, secure, and scalable, utilizing a variety of AWS services and resources.
 
 ### Architecture Diagram
 ![Architecture Diagram](Architecture_DWA_EKS.png)
@@ -132,8 +132,7 @@ This project demonstrates how to host a dynamic web application on AWS using Kub
 17. **Configure Route 53**
     - Create a DNS record set in Route 53 for your application's domain name.
 
-### Conclusion
-This project provides a comprehensive guide to deploying a dynamic web application on AWS using Kubernetes and EKS. By following these steps, you can ensure a secure, scalable, and highly available application deployment.
+
 
 ---
 
